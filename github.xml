@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d90c89e3-a8b3-432f-954a-d786cbd3389a" name="wlcc.costas@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="wlcc.costas@gmail.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
